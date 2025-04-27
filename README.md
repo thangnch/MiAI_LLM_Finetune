@@ -1,7 +1,7 @@
 # MiAI_LLM_Finetune
 Demo of finetune LLM/VLM using Unsloth
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link:  [https://youtu.be/_52-kz08LvU](https://youtu.be/b8XJrNACyUA)
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
